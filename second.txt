@@ -6,7 +6,5 @@ git is modern control version system
 
 https://github.com/syedahmedali09/tuteken.git
 
-remote repository 
-
 
 
